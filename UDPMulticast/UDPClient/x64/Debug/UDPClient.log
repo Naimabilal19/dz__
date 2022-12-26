@@ -1,0 +1,2 @@
+﻿  Client.cpp
+C:\Users\Admin\Downloads\UDPMulticast\UDPClient\Client.cpp : fatal error C1041: cannot open program database 'C:\Users\Admin\Downloads\UDPMulticast\UDPClient\x64\Debug\vc142.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
